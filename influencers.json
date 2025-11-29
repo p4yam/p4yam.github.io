@@ -1,0 +1,354 @@
+{
+  "travel": [
+    {
+      "username": "thebucketlistfamily",
+      "weight": 1
+    },
+    {
+      "username": "lexielimitless",
+      "weight": 1
+    },
+    {
+      "username": "drewbinsky",
+      "weight": 1
+    },
+    {
+      "username": "sennarelax",
+      "weight": 1
+    },
+    {
+      "username": "theloverspassport",
+      "weight": 1
+    },
+    {
+      "username": "karaandnate",
+      "weight": 1
+    },
+    {
+      "username": "chelseakauai",
+      "weight": 1
+    },
+    {
+      "username": "reneeroaming",
+      "weight": 1
+    },
+    {
+      "username": "jess.wandering",
+      "weight": 1
+    },
+    {
+      "username": "professionaltraveler",
+      "weight": 1
+    }
+  ],
+  "fashion": [
+    {
+      "username": "chiaraferragni",
+      "weight": 1
+    },
+    {
+      "username": "camilacoelho",
+      "weight": 1
+    },
+    {
+      "username": "sincerelyjules",
+      "weight": 1
+    },
+    {
+      "username": "aimeesong",
+      "weight": 1
+    },
+    {
+      "username": "negin_mirsalehi",
+      "weight": 1
+    },
+    {
+      "username": "weworewhat",
+      "weight": 1
+    }
+  ],
+  "fitness": [
+    {
+      "username": "cbum",
+      "weight": 1
+    },
+    {
+      "username": "kayla_itsines",
+      "weight": 1
+    },
+    {
+      "username": "philheath",
+      "weight": 1
+    },
+    {
+      "username": "whitneyysimmons",
+      "weight": 1
+    },
+    {
+      "username": "massy.arias",
+      "weight": 1
+    }
+  ],
+  "beauty": [
+    {
+      "username": "jeffreestar",
+      "weight": 1
+    },
+    {
+      "username": "bretmanrock",
+      "weight": 1
+    },
+    {
+      "username": "huda",
+      "weight": 1
+    },
+    {
+      "username": "jamescharles",
+      "weight": 1
+    }
+  ],
+  "lifestyle": [
+    {
+      "username": "zoesugg",
+      "weight": 1
+    },
+    {
+      "username": "sazan",
+      "weight": 1
+    },
+    {
+      "username": "aspynovard",
+      "weight": 1
+    },
+    {
+      "username": "cmcoving",
+      "weight": 1
+    },
+    {
+      "username": "christineandrew",
+      "weight": 1
+    }
+  ],
+  "food": [
+    {
+      "username": "ottolenghi",
+      "weight": 1
+    },
+    {
+      "username": "deliciouslyella",
+      "weight": 1
+    },
+    {
+      "username": "minimalistbaker",
+      "weight": 1
+    },
+    {
+      "username": "davidchang",
+      "weight": 1
+    },
+    {
+      "username": "meowmeix",
+      "weight": 1
+    }
+  ],
+  "tech": [
+    {
+      "username": "technicalguruji",
+      "weight": 1
+    },
+    {
+      "username": "mkbhd",
+      "weight": 1
+    },
+    {
+      "username": "unboxtherapy",
+      "weight": 1
+    },
+    {
+      "username": "ijustine",
+      "weight": 1
+    },
+    {
+      "username": "mrwhosetheboss",
+      "weight": 1
+    }
+  ],
+  "photography": [
+    {
+      "username": "jordi.koalitic",
+      "weight": 1
+    },
+    {
+      "username": "paulnicklen",
+      "weight": 1
+    },
+    {
+      "username": "stevemccurryofficial",
+      "weight": 1
+    },
+    {
+      "username": "jimmychin",
+      "weight": 1
+    },
+    {
+      "username": "danielkordan",
+      "weight": 1
+    }
+  ],
+  "art": [
+    {
+      "username": "banksy",
+      "weight": 1
+    },
+    {
+      "username": "kaws",
+      "weight": 1
+    },
+    {
+      "username": "sirjoancornella",
+      "weight": 1
+    },
+    {
+      "username": "takashipom",
+      "weight": 1
+    },
+    {
+      "username": "sheidlina",
+      "weight": 1
+    }
+  ],
+  "parenting": [
+    {
+      "username": "biglittlefeelings",
+      "weight": 1
+    },
+    {
+      "username": "drbeckyatgoodinside",
+      "weight": 1
+    },
+    {
+      "username": "busytoddler",
+      "weight": 1
+    },
+    {
+      "username": "dr.siggie",
+      "weight": 1
+    },
+    {
+      "username": "catandnat",
+      "weight": 1
+    }
+  ],
+  "business": [
+    {
+      "username": "garyvee",
+      "weight": 1
+    },
+    {
+      "username": "tonyrobbins",
+      "weight": 1
+    },
+    {
+      "username": "patrickbetdavid",
+      "weight": 1
+    },
+    {
+      "username": "grantcardone",
+      "weight": 1
+    },
+    {
+      "username": "richardbranson",
+      "weight": 1
+    }
+  ],
+  "luxury": [
+    {
+      "username": "marianodivaio",
+      "weight": 1
+    },
+    {
+      "username": "leoniehanne",
+      "weight": 1
+    },
+    {
+      "username": "doyoutravel",
+      "weight": 1
+    }
+  ],
+  "comedy": [
+    {
+      "username": "joerogan",
+      "weight": 1
+    },
+    {
+      "username": "celestebarber",
+      "weight": 1
+    },
+    {
+      "username": "theamitbhadana",
+      "weight": 1
+    },
+    {
+      "username": "bharti.laughterqueen",
+      "weight": 1
+    },
+    {
+      "username": "gabrieliglesias",
+      "weight": 1
+    }
+  ],
+  "hot": [
+    {
+      "username": "miakhalifa",
+      "weight": 1
+    },
+    {
+      "username": "amberrose",
+      "weight": 1
+    },
+    {
+      "username": "bellathorne",
+      "weight": 1
+    },
+    {
+      "username": "ms.sethii",
+      "weight": 1
+    },
+    {
+      "username": "sophiedee",
+      "weight": 1
+    },
+    {
+      "username": "itsemilyblack",
+      "weight": 1
+    },
+    {
+      "username": "sweetstassi",
+      "weight": 1
+    },
+    {
+      "username": "sinatra.monroe",
+      "weight": 1
+    },
+    {
+      "username": "beckymil1_",
+      "weight": 1
+    },
+    {
+      "username": "rosiexriderr_",
+      "weight": 1
+    },
+    {
+      "username": "miasorety",
+      "weight": 1
+    },
+    {
+      "username": "_sarahillustrates",
+      "weight": 1
+    },
+    {
+      "username": "itsbritneyloh",
+      "weight": 1
+    }
+  ]
+}
